@@ -1,0 +1,34 @@
+.thumbnail img{
+    width: 100%;
+    padding: 0em;
+}
+
+.thumbnail{
+    padding: 0em;
+}
+
+.thumbnail caption-full{
+    padding: 9px;
+}
+
+.caption-full{
+    padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
+
+#middle{
+    text-align: center;
+}
+
+#thumbnail-size{
+    height: 170px;
+    width: 260px;
+}
+
+#image-size{
+    height: unset;
+    padding: 0em;
+}
